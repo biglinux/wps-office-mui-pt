@@ -4,7 +4,7 @@ Section: localization
 Conflicts: wps-office-language-all
 Maintainer: Paulo Giovanni <paulusiohannes@gmail.com>
 Architecture: all
-Version: 2.0.0-2biglinux1
+Version: 3.0.0-2biglinux1
 Homepage: http://wps-community.org
 Depends:
 Description: Portuguese (Brazil) language pack AND portuguese (Portugal) for WPS Office.

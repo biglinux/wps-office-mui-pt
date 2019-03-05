@@ -1,293 +1,293 @@
-27b76602ac03849d2967cb8875539bff  DEBIAN/control
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
-5a8a6d13f088a5849d857da6ee73e269  opt/kingsoft/wps-office/office6/mui/pt_PT/wpp.qm
-6db215e178d2e1f734db670334f69826  opt/kingsoft/wps-office/office6/mui/pt_PT/qing.qm
-04ceb1c19147b4e15f658b6697032498  opt/kingsoft/wps-office/office6/mui/pt_PT/launcher.qm
-2fcae0517f58007ec6b8e85a68cde0d5  opt/kingsoft/wps-office/office6/mui/pt_PT/CREDITS
-1d118eca2548024782c83f85b7bf905e  opt/kingsoft/wps-office/office6/mui/pt_PT/wpptips.qm
-5c2323541ce4e011d8202fc267fa6645  opt/kingsoft/wps-office/office6/mui/pt_PT/public_res.rcc
-cfdc74d4d1d8ed87de54524a48f00a5e  opt/kingsoft/wps-office/office6/mui/pt_PT/et.qm
-9fee992bca701cdbe0637fe64ffcb09f  opt/kingsoft/wps-office/office6/mui/pt_PT/wpstips.qm
-b3beea78a4974bdebd7ddc7a9f23d8fc  opt/kingsoft/wps-office/office6/mui/pt_PT/ksotips.qm
-fe240576261c64d26f5fdb6ff280dcca  opt/kingsoft/wps-office/office6/mui/pt_PT/data/dgres.ini
-624998930bbce8fb5f90106c81d0537f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/default.dpt
-b632c77ab85685441d344fff85beeb5b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/display.ini
-23da00cb47c763151c68b48755bc23aa  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Pattern.png
-da4013440ade85ff2a951f2ce7a4db1f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Austere.png
-52b20a1aae7b3b365c970f8b15d0e4c1  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Design.doc
-9297cc364a4eaa4c8a3e54bc6d4e7fac  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Exposure.png
-eeee77ccdc97bdb74fc728fdde8e5025  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Puzzle.png
-bef6526306a5c67d8ca73712aabfa349  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Sailboat.png
-93ae34055c12c0713e2d2510d720d0a4  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Design.png
-575ba64ffc8ffd14312725f30792c1d6  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Pattern.doc
-b42648c11ee311f6c5c4ef843302ddf7  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Sailboat.doc
-ecd250192f5018cc8725c04638e33a8b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/BlackAndWhite.doc
-8b4305c4424a44fdaa0ff1ba3d5d0bb8  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Exposure.doc
-19e5db336f4741b51a5a9e9bdb38daea  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Austere.doc
-8a8fcb932f9459f15d3afe2fc27bc02a  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Puzzle.doc
-8c7b9c77e312e96b9e59c298caf833f2  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/BlackAndWhite.png
-bd9b686d4b1918734a89118dc95cb24b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Grid.png
-3d0cb659a24c5c262943c816749b3a79  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Cubical.doc
-985f30e21fb443bd21ff686367fd3af3  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Natural.doc
-9a4e275a8d4b86c7bfc2f704c84422dd  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Natural.png
-71ec3f64c19054fc645709a8667ab2c7  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Grid.doc
-9b6c2cb75d05cad8916c9ee594bbaf14  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Newsprint.doc
-3cd978dc5ca00c00aaac6174d4124bf8  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Newsprint.png
-aeb846a9f49a550c11ded8a3a19f65e9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Standard.doc
-ca392c6ec41bfe7bae5189fa06629215  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Cubical.png
-1b02384806eeaf9675e438522f28d307  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Standard.png
-2443ee9115b5e8dda743461ddbfadbb9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Professional.doc
-50a20e8bb72639ad7e7d8879a1a69614  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/General.doc
-8a852175f0980e350cf634fb837ecb30  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Austere.png
-8e86347f1b43cc9b70e4017d393d6f4f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Pinstripe.doc
-3438d8533dadeb3fdfbec621c6bb4f75  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/General.png
-57ce01eb4fb52f94ca92741e8e1759aa  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Line.png
-14de453cbf73e348714bb8d214eb9f34  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Line.doc
-cd1c8467651014022c1e95def50e14a4  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Pinstripe.png
-0a7a48fa8db10a6500064176461125db  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Professional.png
-b098823186539780c635244a044b95b9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Austere.doc
-e26063c54af077cd30672a3781d672bd  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Arrow.png
-33567f228ba56340a4cdbbc87250bf05  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Stacks.png
-f567c0f73dfe9c528fb90aea80c1efca  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Stacks.doc
-ab4db8ae3d11d804237a46ee40e5a763  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Dots.doc
-37a11d224e0fb8b1cec02e58ac884b19  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Line.png
-f435647bc5afaaecf0bbb0b829cb104f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Newsprint.doc
-593f51f22bf140e4507eff646091f55e  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Newsprint.png
-1fe400f5cd6eb43c7c9d3a6bc7f71fb7  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Traditional.png
-0e226c96e8559ed1d44fad6bfbc747a0  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Line.doc
-9b49e7112afca643818a3d7aaf487a7b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Arrow.doc
-05960d5726ac1305a70cbd3fbb005dad  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Dots.png
-c01a2781aef6b3c6c6a5c67710958fdf  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Traditional.doc
-f98a96ddd072954518c6311fe5d8c7c3  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TitleOnlyLayout.xml
-885e399e1be477c281422b5c0ba4b8d0  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/FourObjectsLayout.xml
-1aa129c38f3e600129918ccae995fd8f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ObjectOverTextLayout.xml
-e24e2d8ff49008c3376f8dd1af95295f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/OrgchartLayout.xml
-88575e10183def1b8470aeb1dc02a449  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/CustomLayout.xml
-8a6c1f4568ab78128ddd16b963f1da00  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ChartLayout.xml
-eaba2904782611e64676ec1524db288f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndMediaClipLayout.xml
-f092bfc2982e9797a44eb51bee014557  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ComparisonLayout.xml
-98b326fa95adc2707d5b7546d8403402  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndTwoObjectsLayout.xml
-af15ee7ac53a5e7ff7eabd001a53f0ae  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ContentWithCaptionLayout.xml
-94ab2a9d37a00ea50a0a1d8de3f8005a  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoObjectsLayout.xml
-fbeb8d7c821315339c2775352f4af3b3  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ClipartAndTextLayout.xml
-194448c51dd14279be7db61e2cb3dd9f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/VerticalTitleAndTextLayout.xml
-7ad698350b78a51f2c9716fc969ae570  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ObjectAndTextLayout.xml
-09731a45ee9a031fbf1b646258796d1a  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ObjectLayout.xml
-98d22b0f6d083529995230482a072930  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/VerticalTextLayout.xml
-acb037e7a4e2eda0da34760616c96e33  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/VerticalTitleAndTextOverChart.xml
-72880085d8726b4e34aa56b999dfdbd8  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/MediaClipAndTextLayout.xml
-546867fb2ee73ff968969493a448438f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/LargeObjectLayout.xml
-677747c0f983a1e18e95e023a6678d39  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndClipartLayout.xml
-83c3bc463e0b0d45505d539e3e5f8d81  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ChartAndTextLayout.xml
-d2edae767ec399a47ad57b709f902aff  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TitleLayout.xml
-bad59df69a41d2f910fa209e073c2311  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoColumnTextLayout.xml
-1211ff4b6e9ed9ecae0e3de5fe9cb98b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoObjectsAndTextLayout.xml
-1fdb00fca8bd9c194d04b2a4ccb7caab  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoObjectsAndObjectLayout.xml
-88f87373cda37cf112c188cdb4bfaf79  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/SectionHeaderLayout.xml
-e928fce9c7cc0764bf6944f206d907c6  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ObjectAndTwoObjectsLayout.xml
-86df53cb221562d48c15f8df397a0d0e  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextLayout.xml
-7824706f05a43f4197d77d3e17dac3a9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/PictureWithCaptionLayout.xml
-74fc63e490e903c6a3a15ad2e8cca944  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndChartLayout.xml
-91e6b2630df20580280b8e1832ade886  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TableLayout.xml
-0541025d3c6597d01642abfc5a0b3883  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ClipArtAndVerticalTextLayout.xml
-5d0a014377717a6f1d51a70207f2d5db  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndObjectLayout.xml
-41cb295aa5ccc0127028f1b4f6d9e0e9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoObjectsOverTextLayout.xml
-48cff943081dc48f28d67ef4cfa70e57  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/BlankLayout.xml
-6b84cad635a6ab7795ae11d434b39d1e  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextOverObjectLayout.xml
-d6ef606e8acb1d57125d273dd32fabe6  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/theme.xml
-8ba881e727fa4cdd923afb93028be593  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/handoutMaster.xml
-bb60d77fd346820d6870406fb49a9654  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/blank.pptx
-a9bf5765191e2766f131c8846af6cb4a  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/slideMaster.xml
-685e3c82d468acdfeefc5c4a07a48565  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/notesMaster.xml
-45d1d84cd32d6f7ed4c23c1b6d1e9bdd  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/newfile.dps
-9cfc566442f4a96990d6d3ab0425651f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Normal.wpt
-5489d4010e3e3d39118a44b50675d7d9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/newfile.pptx
-e95aa46d10facd9dc21a6b08de5a37d0  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/builtin.wpt
-99a1da5515f7d54944a869d3fd9599d9  opt/kingsoft/wps-office/office6/mui/pt_PT/pt_PT.png
-383438250c7a74d3d95c0e09416dc921  opt/kingsoft/wps-office/office6/mui/pt_PT/l10n/wps.cfg
-c0895f8caacefe81ffc2b77984de2afe  opt/kingsoft/wps-office/office6/mui/pt_PT/l10n/common.cfg
-f1cdc9872bf40189fccfd9266b5df702  opt/kingsoft/wps-office/office6/mui/pt_PT/l10n/wpp.cfg
-b66d84db5441ff3fc39c5c11ef22a909  opt/kingsoft/wps-office/office6/mui/pt_PT/l10n/et.cfg
-d3c38a6eaf635a39dea682291dfb4cba  opt/kingsoft/wps-office/office6/mui/pt_PT/ettips.qm
-be7e5e23a1b4793d39a22a071c5d7e49  opt/kingsoft/wps-office/office6/mui/pt_PT/lang.conf
-1ab592704bff9a056c80d09b9f8a1911  opt/kingsoft/wps-office/office6/mui/pt_PT/kso.qm
-dfa1975996366fcd16dbfc08b3025ece  opt/kingsoft/wps-office/office6/mui/pt_PT/ksomisc.qm
-7d632e43b59aac72f2d93a02dee0986b  opt/kingsoft/wps-office/office6/mui/pt_PT/config/localizedfunctionname.cfg
-619207faa9337e1afaaf85cb492e7751  opt/kingsoft/wps-office/office6/mui/pt_PT/beta.png
-40a8b282c70213a7689781028fbc83eb  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_StockA.xlsx
-cbc1efb92986cbb947ac5328739e09a6  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_StockB.xlsx
-d026f8806a7e0c2df5e81605120152b5  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Pie.xlsx
-c2e8e4350374add42ccce609f5e8ffd8  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_StockC.xlsx
-01ea5fd7b5d0801c7bc95526c43c2ecc  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Scatter.xlsx
-4f21a09d13173d9e259ce0c939b35b3c  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_StockD.xlsx
-8ea0865b55894b8dc117cf6b59e3f248  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Area.xlsx
-8f1af53584635ac44ec73caea1747e44  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Bar.xlsx
-e9fcd09980c3dce2c6cba77becc20f06  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Bubble.xlsx
-0b701971a726211e6b82f5f1a4903cb7  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/eula/wait.html
-534e376360f7879ca8cf50992e8919dc  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/eula/image/process_logo.png
-cc1859e3cefae4234f6d10a3a43ac753  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/eula/image/process.gif
-40527c21370b4cb26b5a0a3e30d7c100  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/eula/error.html
-8ccb659ce13531095f3635c193747ea2  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/CONFIDENTIAL.doc
-c485c0696e951824ac6c0485eec9517a  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/TOP SECRET.doc
-d97d636b9e7b9d6c7d62e6c3d8f9c217  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/DO NOT COPY.doc
-5bd52655414baa121565fc7554bc89e2  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/SAMPLE.doc
-e1180812b0059a4b8f1e952ea5472c35  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/URGENT.doc
-a81ba2cfb0cbd184766ed336b20d0715  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/ORIGINAL.doc
-ad591df2deede6c9e91ee34698ae9706  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/user_defined/addwatermark_buildin_wps.doc
-16519d891df6ccc42ae76ffebbf04742  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/TOP SECRET.png
-f26ad0c7e4eefa2c2e0f3e4d4e0f1f53  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/ORIGINAL.png
-061ef336a2bae14a17fe14db836f5b07  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/DO NOT COPY.png
-c49f8d0036167089782c137b610d0582  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/CONFIDENTIAL.png
-f8e90598a78f4bd040410a1328b33aa5  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/URGENT.png
-1c8c6996cc65045943360addb9d21198  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/SAMPLE.png
-f4306dc67b135d6959a0b0951e3ab658  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/user_defined/addwatermark_buildin_wps.png
-0e5464c8beb34637a156a1c5a64a64dd  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/display.ini
-b384f6bb8f11abdabc1b806a40d11851  opt/kingsoft/wps-office/office6/mui/pt_PT/wps.qm
-7e0882cb8c2113564b05099cd25c184a  opt/kingsoft/wps-office/office6/mui/pt_PT/ongmani_res.rcc
-4c9375c5dab325d35f54a8109bb7b9a2  opt/kingsoft/wps-office/office6/mui/pt_BR/wpp.qm
-fe2dee06743141d06fbd31108c5c1fbf  opt/kingsoft/wps-office/office6/mui/pt_BR/qing.qm
-9c61fcd8b6fd3936aaf324e4ab4c18d9  opt/kingsoft/wps-office/office6/mui/pt_BR/launcher.qm
+e5d99290c63ef65a20bde4a3c7cc0025  DEBIAN/control
+8b9c6a4351928d4aadaf538ed8381f15  opt/kingsoft/wps-office/office6/dicts/spellcheck/pt_BR/dict.conf
+5f099f61a7c497c4e9793910d9822221  opt/kingsoft/wps-office/office6/dicts/spellcheck/pt_BR/main.aff
+2da9e25a143551e1b60185ecffab46d5  opt/kingsoft/wps-office/office6/dicts/spellcheck/pt_BR/main.dic
 a9fdb76b7ba94190ccd92423f850d89f  opt/kingsoft/wps-office/office6/mui/pt_BR/CREDITS
-b7f5da22c1b3fd95498339e0fa386f2b  opt/kingsoft/wps-office/office6/mui/pt_BR/wpptips.qm
-51f424fc5ff26420e2c63a3704ad9a3c  opt/kingsoft/wps-office/office6/mui/pt_BR/public_res.rcc
-6802720a8c7507c9de1bff870a0417f3  opt/kingsoft/wps-office/office6/mui/pt_BR/et.qm
-5fab25706f94414109cdf9bff4888f81  opt/kingsoft/wps-office/office6/mui/pt_BR/wpstips.qm
-79ce36263fd49c1eb2410e42e2b5f5aa  opt/kingsoft/wps-office/office6/mui/pt_BR/pt_BR.png
-b7678e8539200914ea95f6d447d09a29  opt/kingsoft/wps-office/office6/mui/pt_BR/ksotips.qm
+619207faa9337e1afaaf85cb492e7751  opt/kingsoft/wps-office/office6/mui/pt_BR/beta.png
+148eaaaa740dbd0066e5a7c4a01b439c  opt/kingsoft/wps-office/office6/mui/pt_BR/config/localizedfunctionname.cfg
 5d8a28212fb0091ed890874c93359b74  opt/kingsoft/wps-office/office6/mui/pt_BR/data/dgres.ini
-cbf5484f4b3fcccf289caa4820a53a57  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/default.dpt
-09a9a851b16c69277777bc700abe56c2  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/display.ini
-23da00cb47c763151c68b48755bc23aa  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Pattern.png
-da4013440ade85ff2a951f2ce7a4db1f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Austere.png
-52b20a1aae7b3b365c970f8b15d0e4c1  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Design.doc
-9297cc364a4eaa4c8a3e54bc6d4e7fac  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Exposure.png
-eeee77ccdc97bdb74fc728fdde8e5025  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Puzzle.png
-bef6526306a5c67d8ca73712aabfa349  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Sailboat.png
-93ae34055c12c0713e2d2510d720d0a4  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Design.png
-575ba64ffc8ffd14312725f30792c1d6  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Pattern.doc
-b42648c11ee311f6c5c4ef843302ddf7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Sailboat.doc
-ecd250192f5018cc8725c04638e33a8b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/BlackAndWhite.doc
-8b4305c4424a44fdaa0ff1ba3d5d0bb8  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Exposure.doc
-19e5db336f4741b51a5a9e9bdb38daea  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Austere.doc
-8a8fcb932f9459f15d3afe2fc27bc02a  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Puzzle.doc
-8c7b9c77e312e96b9e59c298caf833f2  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/BlackAndWhite.png
-bd9b686d4b1918734a89118dc95cb24b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Grid.png
-3d0cb659a24c5c262943c816749b3a79  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Cubical.doc
-985f30e21fb443bd21ff686367fd3af3  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Natural.doc
-9a4e275a8d4b86c7bfc2f704c84422dd  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Natural.png
-71ec3f64c19054fc645709a8667ab2c7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Grid.doc
-9b6c2cb75d05cad8916c9ee594bbaf14  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Newsprint.doc
-3cd978dc5ca00c00aaac6174d4124bf8  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Newsprint.png
-aeb846a9f49a550c11ded8a3a19f65e9  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Standard.doc
-ca392c6ec41bfe7bae5189fa06629215  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Cubical.png
-1b02384806eeaf9675e438522f28d307  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Standard.png
-2443ee9115b5e8dda743461ddbfadbb9  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Professional.doc
-50a20e8bb72639ad7e7d8879a1a69614  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/General.doc
-8a852175f0980e350cf634fb837ecb30  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Austere.png
-8e86347f1b43cc9b70e4017d393d6f4f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Pinstripe.doc
-3438d8533dadeb3fdfbec621c6bb4f75  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/General.png
-57ce01eb4fb52f94ca92741e8e1759aa  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Line.png
-14de453cbf73e348714bb8d214eb9f34  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Line.doc
-cd1c8467651014022c1e95def50e14a4  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Pinstripe.png
-0a7a48fa8db10a6500064176461125db  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Professional.png
-b098823186539780c635244a044b95b9  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Austere.doc
-e26063c54af077cd30672a3781d672bd  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Arrow.png
-33567f228ba56340a4cdbbc87250bf05  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Stacks.png
-f567c0f73dfe9c528fb90aea80c1efca  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Stacks.doc
-ab4db8ae3d11d804237a46ee40e5a763  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Dots.doc
-37a11d224e0fb8b1cec02e58ac884b19  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Line.png
-f435647bc5afaaecf0bbb0b829cb104f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Newsprint.doc
-593f51f22bf140e4507eff646091f55e  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Newsprint.png
-1fe400f5cd6eb43c7c9d3a6bc7f71fb7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Traditional.png
-0e226c96e8559ed1d44fad6bfbc747a0  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Line.doc
-9b49e7112afca643818a3d7aaf487a7b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Arrow.doc
-05960d5726ac1305a70cbd3fbb005dad  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Dots.png
-c01a2781aef6b3c6c6a5c67710958fdf  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Traditional.doc
-d9ac5365859d31a3b65f09150f8335f0  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TitleOnlyLayout.xml
-3f5e0c11cc25dfc9a884702a2fc5f4dd  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/FourObjectsLayout.xml
-371363b3a228561e8915d3221c1375d0  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ObjectOverTextLayout.xml
-7a3affbbd036f8960323706e36e883e3  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/OrgchartLayout.xml
-c61a1f4975e87aee026c349909387de7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/CustomLayout.xml
-a7786d0a4195f2147ce12f8938a924b3  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ChartLayout.xml
-5a41aef209370886957736ae58f22051  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndMediaClipLayout.xml
-7b103d4e5f6cd1a26b23bdd3b6347fdf  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ComparisonLayout.xml
-fff44255f061bbe9262cc75096ce8984  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndTwoObjectsLayout.xml
-3d4e78f17d04e4c5a792de7589e3ac40  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ContentWithCaptionLayout.xml
-d6a24d29e98a3dbba35a872d3de7d43b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoObjectsLayout.xml
-deda02da1bc19ae9de874768ca9720b8  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ClipartAndTextLayout.xml
-141b10947cd27d72c6bba79a473726a4  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/VerticalTitleAndTextLayout.xml
-73e35245e8db6e250565331dfb78900f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ObjectAndTextLayout.xml
-207b85917803cf04925334b5af3ac536  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ObjectLayout.xml
-ea7cf139efdc06837789ef383db6125d  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/VerticalTextLayout.xml
-290198b41365ee8f67d22438e04ca776  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/VerticalTitleAndTextOverChart.xml
-8000e408123f2078de3967945f70436e  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/MediaClipAndTextLayout.xml
-23d2996db5353e4d887aba8cdc920b86  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/LargeObjectLayout.xml
-9377ab3c10693ea733466c583bd1c960  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndClipartLayout.xml
-cb2e81a24f73a959fd49f9d6326d07a2  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ChartAndTextLayout.xml
-5bd2b9e2eb437f777d1de880f04fd993  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TitleLayout.xml
-b0296f90fefc28e91b9dfbd5b2bfc356  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoColumnTextLayout.xml
-33b80b4b20059b88946b9588b8b30278  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoObjectsAndTextLayout.xml
-86e0d69d5e5ec721682003645d28829a  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoObjectsAndObjectLayout.xml
-ab084bb183e2707ec2f46ccafef6791f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/SectionHeaderLayout.xml
-88cd8b2dbb636aa5f972e71265877ef5  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ObjectAndTwoObjectsLayout.xml
-7591dc7272c8407b7250f3d132d811f2  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextLayout.xml
-470fd2202dccf8668d366c5d7436f8bf  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/PictureWithCaptionLayout.xml
-dc94d408fac95041500099105b276432  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndChartLayout.xml
-870e86055c5ead5adf683f200e07441f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TableLayout.xml
-a78e41a98d14003a5abffc9d2b6222ca  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ClipArtAndVerticalTextLayout.xml
-11adee0e0c85762ef0e797fa7ad23648  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndObjectLayout.xml
-3a9a364999c28a3ff3d21004247c604f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoObjectsOverTextLayout.xml
-6f80422895072d16df5ca2379c129141  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/BlankLayout.xml
-92b9406b832d0f706037db57933ebf13  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextOverObjectLayout.xml
-d6ef606e8acb1d57125d273dd32fabe6  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/theme.xml
-92d4b800d3c90cd09beb23eaf3be50e7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/handoutMaster.xml
-34782973449995dde623a0beca672d2c  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/blank.pptx
-4b81f569a9ce3fb95224b81bf790f6ab  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/slideMaster.xml
-c2212363ddbcb819fb4d6c139a6c9e58  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/notesMaster.xml
-a5b718319167b14a7ce2061baad3e71b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/newfile.dps
-a8a68cbcf3e2d1554e3d39498f76a598  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Normal.wpt
-22e8efe9a013b140de40e8337ff7100f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/newfile.pptx
-7856bec72c8e70737cbb2a721530855f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/builtin.wpt
-383438250c7a74d3d95c0e09416dc921  opt/kingsoft/wps-office/office6/mui/pt_BR/l10n/wps.cfg
-c0895f8caacefe81ffc2b77984de2afe  opt/kingsoft/wps-office/office6/mui/pt_BR/l10n/common.cfg
-f1cdc9872bf40189fccfd9266b5df702  opt/kingsoft/wps-office/office6/mui/pt_BR/l10n/wpp.cfg
-b66d84db5441ff3fc39c5c11ef22a909  opt/kingsoft/wps-office/office6/mui/pt_BR/l10n/et.cfg
+6802720a8c7507c9de1bff870a0417f3  opt/kingsoft/wps-office/office6/mui/pt_BR/et.qm
 d001a441c6a2b3577d5f9dc7498ba5be  opt/kingsoft/wps-office/office6/mui/pt_BR/ettips.qm
-03d5d74da852c59130b35a63a9c915b0  opt/kingsoft/wps-office/office6/mui/pt_BR/lang.conf
 5be11897cfc633dedd99c8e99d6bcadc  opt/kingsoft/wps-office/office6/mui/pt_BR/kso.qm
 8321a8b5f39c7e9bd11e0b191bcaa9b3  opt/kingsoft/wps-office/office6/mui/pt_BR/ksomisc.qm
-148eaaaa740dbd0066e5a7c4a01b439c  opt/kingsoft/wps-office/office6/mui/pt_BR/config/localizedfunctionname.cfg
-619207faa9337e1afaaf85cb492e7751  opt/kingsoft/wps-office/office6/mui/pt_BR/beta.png
-c7be913757e84b5058cf4cb65e17c614  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_StockA.xlsx
-681c1f67c6576ec901ec503e92248b79  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_StockB.xlsx
-2522d9b95644252b72521f900be350f4  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_Pie.xlsx
-19b62d3ccd539752e6f017d44897bf4c  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_StockC.xlsx
-9cf26770a97fe8270dae17b717e2c52a  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_Scatter.xlsx
-f3b8556c824b1b81de9d54b15f93e56e  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_StockD.xlsx
+b7678e8539200914ea95f6d447d09a29  opt/kingsoft/wps-office/office6/mui/pt_BR/ksotips.qm
+c0895f8caacefe81ffc2b77984de2afe  opt/kingsoft/wps-office/office6/mui/pt_BR/l10n/common.cfg
+b66d84db5441ff3fc39c5c11ef22a909  opt/kingsoft/wps-office/office6/mui/pt_BR/l10n/et.cfg
+f1cdc9872bf40189fccfd9266b5df702  opt/kingsoft/wps-office/office6/mui/pt_BR/l10n/wpp.cfg
+383438250c7a74d3d95c0e09416dc921  opt/kingsoft/wps-office/office6/mui/pt_BR/l10n/wps.cfg
+03d5d74da852c59130b35a63a9c915b0  opt/kingsoft/wps-office/office6/mui/pt_BR/lang.conf
+9c61fcd8b6fd3936aaf324e4ab4c18d9  opt/kingsoft/wps-office/office6/mui/pt_BR/launcher.qm
+7e0882cb8c2113564b05099cd25c184a  opt/kingsoft/wps-office/office6/mui/pt_BR/ongmani_res.rcc
+79ce36263fd49c1eb2410e42e2b5f5aa  opt/kingsoft/wps-office/office6/mui/pt_BR/pt_BR.png
+51f424fc5ff26420e2c63a3704ad9a3c  opt/kingsoft/wps-office/office6/mui/pt_BR/public_res.rcc
+fe2dee06743141d06fbd31108c5c1fbf  opt/kingsoft/wps-office/office6/mui/pt_BR/qing.qm
+457d24b3aee26f695efca14eb1ec6e5b  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/eula/error.html
+cc1859e3cefae4234f6d10a3a43ac753  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/eula/image/process.gif
+534e376360f7879ca8cf50992e8919dc  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/eula/image/process_logo.png
+37f0e4d932b70ad11bc95f88bdab620f  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/eula/wait.html
+0e5464c8beb34637a156a1c5a64a64dd  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/display.ini
+c49f8d0036167089782c137b610d0582  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/CONFIDENTIAL.png
+061ef336a2bae14a17fe14db836f5b07  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/DO NOT COPY.png
+f26ad0c7e4eefa2c2e0f3e4d4e0f1f53  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/ORIGINAL.png
+1c8c6996cc65045943360addb9d21198  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/SAMPLE.png
+16519d891df6ccc42ae76ffebbf04742  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/TOP SECRET.png
+f8e90598a78f4bd040410a1328b33aa5  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/URGENT.png
+f4306dc67b135d6959a0b0951e3ab658  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/user_defined/addwatermark_buildin_wps.png
+8ccb659ce13531095f3635c193747ea2  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/CONFIDENTIAL.doc
+d97d636b9e7b9d6c7d62e6c3d8f9c217  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/DO NOT COPY.doc
+a81ba2cfb0cbd184766ed336b20d0715  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/ORIGINAL.doc
+5bd52655414baa121565fc7554bc89e2  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/SAMPLE.doc
+c485c0696e951824ac6c0485eec9517a  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/TOP SECRET.doc
+e1180812b0059a4b8f1e952ea5472c35  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/URGENT.doc
+ad591df2deede6c9e91ee34698ae9706  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/user_defined/addwatermark_buildin_wps.doc
 8dff4e164bab1aca62444949ef734435  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_Area.xlsx
 c1f8ee76e181355ac23fa72e03103070  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_Bar.xlsx
 ef4a84fbefe16537ed7754ab667dc273  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_Bubble.xlsx
-37f0e4d932b70ad11bc95f88bdab620f  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/eula/wait.html
-534e376360f7879ca8cf50992e8919dc  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/eula/image/process_logo.png
-cc1859e3cefae4234f6d10a3a43ac753  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/eula/image/process.gif
-457d24b3aee26f695efca14eb1ec6e5b  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/eula/error.html
-8ccb659ce13531095f3635c193747ea2  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/CONFIDENTIAL.doc
-c485c0696e951824ac6c0485eec9517a  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/TOP SECRET.doc
-d97d636b9e7b9d6c7d62e6c3d8f9c217  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/DO NOT COPY.doc
-5bd52655414baa121565fc7554bc89e2  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/SAMPLE.doc
-e1180812b0059a4b8f1e952ea5472c35  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/URGENT.doc
-a81ba2cfb0cbd184766ed336b20d0715  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/preinstall/ORIGINAL.doc
-ad591df2deede6c9e91ee34698ae9706  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/information/user_defined/addwatermark_buildin_wps.doc
-16519d891df6ccc42ae76ffebbf04742  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/TOP SECRET.png
-f26ad0c7e4eefa2c2e0f3e4d4e0f1f53  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/ORIGINAL.png
-061ef336a2bae14a17fe14db836f5b07  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/DO NOT COPY.png
-c49f8d0036167089782c137b610d0582  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/CONFIDENTIAL.png
-f8e90598a78f4bd040410a1328b33aa5  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/URGENT.png
-1c8c6996cc65045943360addb9d21198  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/preinstall/SAMPLE.png
-f4306dc67b135d6959a0b0951e3ab658  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/images/user_defined/addwatermark_buildin_wps.png
-0e5464c8beb34637a156a1c5a64a64dd  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/watermark/display.ini
+2522d9b95644252b72521f900be350f4  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_Pie.xlsx
+9cf26770a97fe8270dae17b717e2c52a  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_Scatter.xlsx
+c7be913757e84b5058cf4cb65e17c614  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_StockA.xlsx
+681c1f67c6576ec901ec503e92248b79  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_StockB.xlsx
+19b62d3ccd539752e6f017d44897bf4c  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_StockC.xlsx
+f3b8556c824b1b81de9d54b15f93e56e  opt/kingsoft/wps-office/office6/mui/pt_BR/resource/xlsx/Kingsoft_Et_StockD.xlsx
+a8a68cbcf3e2d1554e3d39498f76a598  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Normal.wpt
+6f80422895072d16df5ca2379c129141  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/BlankLayout.xml
+cb2e81a24f73a959fd49f9d6326d07a2  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ChartAndTextLayout.xml
+a7786d0a4195f2147ce12f8938a924b3  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ChartLayout.xml
+a78e41a98d14003a5abffc9d2b6222ca  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ClipArtAndVerticalTextLayout.xml
+deda02da1bc19ae9de874768ca9720b8  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ClipartAndTextLayout.xml
+7b103d4e5f6cd1a26b23bdd3b6347fdf  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ComparisonLayout.xml
+3d4e78f17d04e4c5a792de7589e3ac40  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ContentWithCaptionLayout.xml
+c61a1f4975e87aee026c349909387de7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/CustomLayout.xml
+3f5e0c11cc25dfc9a884702a2fc5f4dd  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/FourObjectsLayout.xml
+23d2996db5353e4d887aba8cdc920b86  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/LargeObjectLayout.xml
+8000e408123f2078de3967945f70436e  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/MediaClipAndTextLayout.xml
+73e35245e8db6e250565331dfb78900f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ObjectAndTextLayout.xml
+88cd8b2dbb636aa5f972e71265877ef5  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ObjectAndTwoObjectsLayout.xml
+207b85917803cf04925334b5af3ac536  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ObjectLayout.xml
+371363b3a228561e8915d3221c1375d0  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/ObjectOverTextLayout.xml
+7a3affbbd036f8960323706e36e883e3  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/OrgchartLayout.xml
+470fd2202dccf8668d366c5d7436f8bf  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/PictureWithCaptionLayout.xml
+ab084bb183e2707ec2f46ccafef6791f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/SectionHeaderLayout.xml
+870e86055c5ead5adf683f200e07441f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TableLayout.xml
+dc94d408fac95041500099105b276432  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndChartLayout.xml
+9377ab3c10693ea733466c583bd1c960  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndClipartLayout.xml
+5a41aef209370886957736ae58f22051  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndMediaClipLayout.xml
+11adee0e0c85762ef0e797fa7ad23648  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndObjectLayout.xml
+fff44255f061bbe9262cc75096ce8984  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextAndTwoObjectsLayout.xml
+7591dc7272c8407b7250f3d132d811f2  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextLayout.xml
+92b9406b832d0f706037db57933ebf13  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TextOverObjectLayout.xml
+5bd2b9e2eb437f777d1de880f04fd993  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TitleLayout.xml
+d9ac5365859d31a3b65f09150f8335f0  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TitleOnlyLayout.xml
+b0296f90fefc28e91b9dfbd5b2bfc356  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoColumnTextLayout.xml
+86e0d69d5e5ec721682003645d28829a  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoObjectsAndObjectLayout.xml
+33b80b4b20059b88946b9588b8b30278  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoObjectsAndTextLayout.xml
+d6a24d29e98a3dbba35a872d3de7d43b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoObjectsLayout.xml
+3a9a364999c28a3ff3d21004247c604f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/TwoObjectsOverTextLayout.xml
+ea7cf139efdc06837789ef383db6125d  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/VerticalTextLayout.xml
+141b10947cd27d72c6bba79a473726a4  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/VerticalTitleAndTextLayout.xml
+290198b41365ee8f67d22438e04ca776  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/Slide Layout/VerticalTitleAndTextOverChart.xml
+34782973449995dde623a0beca672d2c  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/blank.pptx
+92d4b800d3c90cd09beb23eaf3be50e7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/handoutMaster.xml
+c2212363ddbcb819fb4d6c139a6c9e58  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/notesMaster.xml
+4b81f569a9ce3fb95224b81bf790f6ab  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/slideMaster.xml
+d6ef606e8acb1d57125d273dd32fabe6  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/Wpp Default Object/theme.xml
+7856bec72c8e70737cbb2a721530855f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/builtin.wpt
+3d0cb659a24c5c262943c816749b3a79  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Cubical.doc
+ca392c6ec41bfe7bae5189fa06629215  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Cubical.png
+71ec3f64c19054fc645709a8667ab2c7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Grid.doc
+bd9b686d4b1918734a89118dc95cb24b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Grid.png
+985f30e21fb443bd21ff686367fd3af3  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Natural.doc
+9a4e275a8d4b86c7bfc2f704c84422dd  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Natural.png
+9b6c2cb75d05cad8916c9ee594bbaf14  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Newsprint.doc
+3cd978dc5ca00c00aaac6174d4124bf8  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Newsprint.png
+aeb846a9f49a550c11ded8a3a19f65e9  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Standard.doc
+1b02384806eeaf9675e438522f28d307  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Business/Standard.png
+19e5db336f4741b51a5a9e9bdb38daea  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Austere.doc
+da4013440ade85ff2a951f2ce7a4db1f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Austere.png
+ecd250192f5018cc8725c04638e33a8b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/BlackAndWhite.doc
+8c7b9c77e312e96b9e59c298caf833f2  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/BlackAndWhite.png
+52b20a1aae7b3b365c970f8b15d0e4c1  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Design.doc
+93ae34055c12c0713e2d2510d720d0a4  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Design.png
+8b4305c4424a44fdaa0ff1ba3d5d0bb8  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Exposure.doc
+9297cc364a4eaa4c8a3e54bc6d4e7fac  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Exposure.png
+575ba64ffc8ffd14312725f30792c1d6  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Pattern.doc
+23da00cb47c763151c68b48755bc23aa  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Pattern.png
+8a8fcb932f9459f15d3afe2fc27bc02a  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Puzzle.doc
+eeee77ccdc97bdb74fc728fdde8e5025  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Puzzle.png
+b42648c11ee311f6c5c4ef843302ddf7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Sailboat.doc
+bef6526306a5c67d8ca73712aabfa349  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Resume/Sailboat.png
+b098823186539780c635244a044b95b9  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Austere.doc
+8a852175f0980e350cf634fb837ecb30  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Austere.png
+50a20e8bb72639ad7e7d8879a1a69614  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/General.doc
+3438d8533dadeb3fdfbec621c6bb4f75  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/General.png
+14de453cbf73e348714bb8d214eb9f34  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Line.doc
+57ce01eb4fb52f94ca92741e8e1759aa  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Line.png
+8e86347f1b43cc9b70e4017d393d6f4f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Pinstripe.doc
+cd1c8467651014022c1e95def50e14a4  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Pinstripe.png
+2443ee9115b5e8dda743461ddbfadbb9  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Professional.doc
+0a7a48fa8db10a6500064176461125db  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/lengthwise/Thesis/Professional.png
+9b49e7112afca643818a3d7aaf487a7b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Arrow.doc
+e26063c54af077cd30672a3781d672bd  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Arrow.png
+ab4db8ae3d11d804237a46ee40e5a763  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Dots.doc
+05960d5726ac1305a70cbd3fbb005dad  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Dots.png
+0e226c96e8559ed1d44fad6bfbc747a0  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Line.doc
+37a11d224e0fb8b1cec02e58ac884b19  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Line.png
+f435647bc5afaaecf0bbb0b829cb104f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Newsprint.doc
+593f51f22bf140e4507eff646091f55e  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Newsprint.png
+f567c0f73dfe9c528fb90aea80c1efca  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Stacks.doc
+33567f228ba56340a4cdbbc87250bf05  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Stacks.png
+c01a2781aef6b3c6c6a5c67710958fdf  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Traditional.doc
+1fe400f5cd6eb43c7c9d3a6bc7f71fb7  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/buildin/transverse/transverse/Traditional.png
+09a9a851b16c69277777bc700abe56c2  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/coverpage/display.ini
+cbf5484f4b3fcccf289caa4820a53a57  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/default.dpt
+a5b718319167b14a7ce2061baad3e71b  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/newfile.dps
+22e8efe9a013b140de40e8337ff7100f  opt/kingsoft/wps-office/office6/mui/pt_BR/templates/newfile.pptx
+4c9375c5dab325d35f54a8109bb7b9a2  opt/kingsoft/wps-office/office6/mui/pt_BR/wpp.qm
+b7f5da22c1b3fd95498339e0fa386f2b  opt/kingsoft/wps-office/office6/mui/pt_BR/wpptips.qm
 3ace431a45dbe3e3b580c98c94e206b8  opt/kingsoft/wps-office/office6/mui/pt_BR/wps.qm
-7e0882cb8c2113564b05099cd25c184a  opt/kingsoft/wps-office/office6/mui/pt_BR/ongmani_res.rcc
-8b9c6a4351928d4aadaf538ed8381f15  opt/kingsoft/wps-office/office6/dicts/pt_BR/dict.conf
-a932360d3bb32551f2f47756acd57748  opt/kingsoft/wps-office/office6/dicts/pt_BR/main.aff
-6365ca63927844e52c3a4fa0a8573604  opt/kingsoft/wps-office/office6/dicts/pt_BR/main.dic
+5fab25706f94414109cdf9bff4888f81  opt/kingsoft/wps-office/office6/mui/pt_BR/wpstips.qm
+2fcae0517f58007ec6b8e85a68cde0d5  opt/kingsoft/wps-office/office6/mui/pt_PT/CREDITS
+619207faa9337e1afaaf85cb492e7751  opt/kingsoft/wps-office/office6/mui/pt_PT/beta.png
+7d632e43b59aac72f2d93a02dee0986b  opt/kingsoft/wps-office/office6/mui/pt_PT/config/localizedfunctionname.cfg
+fe240576261c64d26f5fdb6ff280dcca  opt/kingsoft/wps-office/office6/mui/pt_PT/data/dgres.ini
+cfdc74d4d1d8ed87de54524a48f00a5e  opt/kingsoft/wps-office/office6/mui/pt_PT/et.qm
+d3c38a6eaf635a39dea682291dfb4cba  opt/kingsoft/wps-office/office6/mui/pt_PT/ettips.qm
+1ab592704bff9a056c80d09b9f8a1911  opt/kingsoft/wps-office/office6/mui/pt_PT/kso.qm
+dfa1975996366fcd16dbfc08b3025ece  opt/kingsoft/wps-office/office6/mui/pt_PT/ksomisc.qm
+b3beea78a4974bdebd7ddc7a9f23d8fc  opt/kingsoft/wps-office/office6/mui/pt_PT/ksotips.qm
+c0895f8caacefe81ffc2b77984de2afe  opt/kingsoft/wps-office/office6/mui/pt_PT/l10n/common.cfg
+b66d84db5441ff3fc39c5c11ef22a909  opt/kingsoft/wps-office/office6/mui/pt_PT/l10n/et.cfg
+f1cdc9872bf40189fccfd9266b5df702  opt/kingsoft/wps-office/office6/mui/pt_PT/l10n/wpp.cfg
+383438250c7a74d3d95c0e09416dc921  opt/kingsoft/wps-office/office6/mui/pt_PT/l10n/wps.cfg
+be7e5e23a1b4793d39a22a071c5d7e49  opt/kingsoft/wps-office/office6/mui/pt_PT/lang.conf
+04ceb1c19147b4e15f658b6697032498  opt/kingsoft/wps-office/office6/mui/pt_PT/launcher.qm
+7e0882cb8c2113564b05099cd25c184a  opt/kingsoft/wps-office/office6/mui/pt_PT/ongmani_res.rcc
+99a1da5515f7d54944a869d3fd9599d9  opt/kingsoft/wps-office/office6/mui/pt_PT/pt_PT.png
+5c2323541ce4e011d8202fc267fa6645  opt/kingsoft/wps-office/office6/mui/pt_PT/public_res.rcc
+6db215e178d2e1f734db670334f69826  opt/kingsoft/wps-office/office6/mui/pt_PT/qing.qm
+40527c21370b4cb26b5a0a3e30d7c100  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/eula/error.html
+cc1859e3cefae4234f6d10a3a43ac753  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/eula/image/process.gif
+534e376360f7879ca8cf50992e8919dc  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/eula/image/process_logo.png
+0b701971a726211e6b82f5f1a4903cb7  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/eula/wait.html
+0e5464c8beb34637a156a1c5a64a64dd  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/display.ini
+c49f8d0036167089782c137b610d0582  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/CONFIDENTIAL.png
+061ef336a2bae14a17fe14db836f5b07  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/DO NOT COPY.png
+f26ad0c7e4eefa2c2e0f3e4d4e0f1f53  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/ORIGINAL.png
+1c8c6996cc65045943360addb9d21198  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/SAMPLE.png
+16519d891df6ccc42ae76ffebbf04742  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/TOP SECRET.png
+f8e90598a78f4bd040410a1328b33aa5  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/preinstall/URGENT.png
+f4306dc67b135d6959a0b0951e3ab658  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/images/user_defined/addwatermark_buildin_wps.png
+8ccb659ce13531095f3635c193747ea2  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/CONFIDENTIAL.doc
+d97d636b9e7b9d6c7d62e6c3d8f9c217  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/DO NOT COPY.doc
+a81ba2cfb0cbd184766ed336b20d0715  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/ORIGINAL.doc
+5bd52655414baa121565fc7554bc89e2  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/SAMPLE.doc
+c485c0696e951824ac6c0485eec9517a  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/TOP SECRET.doc
+e1180812b0059a4b8f1e952ea5472c35  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/preinstall/URGENT.doc
+ad591df2deede6c9e91ee34698ae9706  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/watermark/information/user_defined/addwatermark_buildin_wps.doc
+8ea0865b55894b8dc117cf6b59e3f248  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Area.xlsx
+8f1af53584635ac44ec73caea1747e44  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Bar.xlsx
+e9fcd09980c3dce2c6cba77becc20f06  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Bubble.xlsx
+d026f8806a7e0c2df5e81605120152b5  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Pie.xlsx
+01ea5fd7b5d0801c7bc95526c43c2ecc  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_Scatter.xlsx
+40a8b282c70213a7689781028fbc83eb  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_StockA.xlsx
+cbc1efb92986cbb947ac5328739e09a6  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_StockB.xlsx
+c2e8e4350374add42ccce609f5e8ffd8  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_StockC.xlsx
+4f21a09d13173d9e259ce0c939b35b3c  opt/kingsoft/wps-office/office6/mui/pt_PT/resource/xlsx/Kingsoft_Et_StockD.xlsx
+9cfc566442f4a96990d6d3ab0425651f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Normal.wpt
+48cff943081dc48f28d67ef4cfa70e57  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/BlankLayout.xml
+83c3bc463e0b0d45505d539e3e5f8d81  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ChartAndTextLayout.xml
+8a6c1f4568ab78128ddd16b963f1da00  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ChartLayout.xml
+0541025d3c6597d01642abfc5a0b3883  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ClipArtAndVerticalTextLayout.xml
+fbeb8d7c821315339c2775352f4af3b3  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ClipartAndTextLayout.xml
+f092bfc2982e9797a44eb51bee014557  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ComparisonLayout.xml
+af15ee7ac53a5e7ff7eabd001a53f0ae  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ContentWithCaptionLayout.xml
+88575e10183def1b8470aeb1dc02a449  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/CustomLayout.xml
+885e399e1be477c281422b5c0ba4b8d0  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/FourObjectsLayout.xml
+546867fb2ee73ff968969493a448438f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/LargeObjectLayout.xml
+72880085d8726b4e34aa56b999dfdbd8  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/MediaClipAndTextLayout.xml
+7ad698350b78a51f2c9716fc969ae570  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ObjectAndTextLayout.xml
+e928fce9c7cc0764bf6944f206d907c6  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ObjectAndTwoObjectsLayout.xml
+09731a45ee9a031fbf1b646258796d1a  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ObjectLayout.xml
+1aa129c38f3e600129918ccae995fd8f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/ObjectOverTextLayout.xml
+e24e2d8ff49008c3376f8dd1af95295f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/OrgchartLayout.xml
+7824706f05a43f4197d77d3e17dac3a9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/PictureWithCaptionLayout.xml
+88f87373cda37cf112c188cdb4bfaf79  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/SectionHeaderLayout.xml
+91e6b2630df20580280b8e1832ade886  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TableLayout.xml
+74fc63e490e903c6a3a15ad2e8cca944  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndChartLayout.xml
+677747c0f983a1e18e95e023a6678d39  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndClipartLayout.xml
+eaba2904782611e64676ec1524db288f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndMediaClipLayout.xml
+5d0a014377717a6f1d51a70207f2d5db  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndObjectLayout.xml
+98b326fa95adc2707d5b7546d8403402  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextAndTwoObjectsLayout.xml
+86df53cb221562d48c15f8df397a0d0e  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextLayout.xml
+6b84cad635a6ab7795ae11d434b39d1e  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TextOverObjectLayout.xml
+d2edae767ec399a47ad57b709f902aff  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TitleLayout.xml
+f98a96ddd072954518c6311fe5d8c7c3  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TitleOnlyLayout.xml
+bad59df69a41d2f910fa209e073c2311  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoColumnTextLayout.xml
+1fdb00fca8bd9c194d04b2a4ccb7caab  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoObjectsAndObjectLayout.xml
+1211ff4b6e9ed9ecae0e3de5fe9cb98b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoObjectsAndTextLayout.xml
+94ab2a9d37a00ea50a0a1d8de3f8005a  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoObjectsLayout.xml
+41cb295aa5ccc0127028f1b4f6d9e0e9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/TwoObjectsOverTextLayout.xml
+98d22b0f6d083529995230482a072930  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/VerticalTextLayout.xml
+194448c51dd14279be7db61e2cb3dd9f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/VerticalTitleAndTextLayout.xml
+acb037e7a4e2eda0da34760616c96e33  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/Slide Layout/VerticalTitleAndTextOverChart.xml
+bb60d77fd346820d6870406fb49a9654  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/blank.pptx
+8ba881e727fa4cdd923afb93028be593  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/handoutMaster.xml
+685e3c82d468acdfeefc5c4a07a48565  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/notesMaster.xml
+a9bf5765191e2766f131c8846af6cb4a  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/slideMaster.xml
+d6ef606e8acb1d57125d273dd32fabe6  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/Wpp Default Object/theme.xml
+e95aa46d10facd9dc21a6b08de5a37d0  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/builtin.wpt
+3d0cb659a24c5c262943c816749b3a79  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Cubical.doc
+ca392c6ec41bfe7bae5189fa06629215  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Cubical.png
+71ec3f64c19054fc645709a8667ab2c7  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Grid.doc
+bd9b686d4b1918734a89118dc95cb24b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Grid.png
+985f30e21fb443bd21ff686367fd3af3  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Natural.doc
+9a4e275a8d4b86c7bfc2f704c84422dd  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Natural.png
+9b6c2cb75d05cad8916c9ee594bbaf14  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Newsprint.doc
+3cd978dc5ca00c00aaac6174d4124bf8  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Newsprint.png
+aeb846a9f49a550c11ded8a3a19f65e9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Standard.doc
+1b02384806eeaf9675e438522f28d307  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Business/Standard.png
+19e5db336f4741b51a5a9e9bdb38daea  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Austere.doc
+da4013440ade85ff2a951f2ce7a4db1f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Austere.png
+ecd250192f5018cc8725c04638e33a8b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/BlackAndWhite.doc
+8c7b9c77e312e96b9e59c298caf833f2  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/BlackAndWhite.png
+52b20a1aae7b3b365c970f8b15d0e4c1  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Design.doc
+93ae34055c12c0713e2d2510d720d0a4  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Design.png
+8b4305c4424a44fdaa0ff1ba3d5d0bb8  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Exposure.doc
+9297cc364a4eaa4c8a3e54bc6d4e7fac  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Exposure.png
+575ba64ffc8ffd14312725f30792c1d6  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Pattern.doc
+23da00cb47c763151c68b48755bc23aa  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Pattern.png
+8a8fcb932f9459f15d3afe2fc27bc02a  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Puzzle.doc
+eeee77ccdc97bdb74fc728fdde8e5025  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Puzzle.png
+b42648c11ee311f6c5c4ef843302ddf7  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Sailboat.doc
+bef6526306a5c67d8ca73712aabfa349  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Resume/Sailboat.png
+b098823186539780c635244a044b95b9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Austere.doc
+8a852175f0980e350cf634fb837ecb30  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Austere.png
+50a20e8bb72639ad7e7d8879a1a69614  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/General.doc
+3438d8533dadeb3fdfbec621c6bb4f75  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/General.png
+14de453cbf73e348714bb8d214eb9f34  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Line.doc
+57ce01eb4fb52f94ca92741e8e1759aa  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Line.png
+8e86347f1b43cc9b70e4017d393d6f4f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Pinstripe.doc
+cd1c8467651014022c1e95def50e14a4  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Pinstripe.png
+2443ee9115b5e8dda743461ddbfadbb9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Professional.doc
+0a7a48fa8db10a6500064176461125db  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/lengthwise/Thesis/Professional.png
+9b49e7112afca643818a3d7aaf487a7b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Arrow.doc
+e26063c54af077cd30672a3781d672bd  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Arrow.png
+ab4db8ae3d11d804237a46ee40e5a763  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Dots.doc
+05960d5726ac1305a70cbd3fbb005dad  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Dots.png
+0e226c96e8559ed1d44fad6bfbc747a0  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Line.doc
+37a11d224e0fb8b1cec02e58ac884b19  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Line.png
+f435647bc5afaaecf0bbb0b829cb104f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Newsprint.doc
+593f51f22bf140e4507eff646091f55e  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Newsprint.png
+f567c0f73dfe9c528fb90aea80c1efca  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Stacks.doc
+33567f228ba56340a4cdbbc87250bf05  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Stacks.png
+c01a2781aef6b3c6c6a5c67710958fdf  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Traditional.doc
+1fe400f5cd6eb43c7c9d3a6bc7f71fb7  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/buildin/transverse/transverse/Traditional.png
+b632c77ab85685441d344fff85beeb5b  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/coverpage/display.ini
+624998930bbce8fb5f90106c81d0537f  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/default.dpt
+45d1d84cd32d6f7ed4c23c1b6d1e9bdd  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/newfile.dps
+5489d4010e3e3d39118a44b50675d7d9  opt/kingsoft/wps-office/office6/mui/pt_PT/templates/newfile.pptx
+5a8a6d13f088a5849d857da6ee73e269  opt/kingsoft/wps-office/office6/mui/pt_PT/wpp.qm
+1d118eca2548024782c83f85b7bf905e  opt/kingsoft/wps-office/office6/mui/pt_PT/wpptips.qm
+b384f6bb8f11abdabc1b806a40d11851  opt/kingsoft/wps-office/office6/mui/pt_PT/wps.qm
+9fee992bca701cdbe0637fe64ffcb09f  opt/kingsoft/wps-office/office6/mui/pt_PT/wpstips.qm
